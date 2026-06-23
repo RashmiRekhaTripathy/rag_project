@@ -1,0 +1,14 @@
+pypdf
+pdfplumber
+fpdf
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+chromadb
+faiss-cpu
+numpy
+pandas
+tqdm
+colorama
+torch
